@@ -1,7 +1,7 @@
 {
-  "name": "SOLARCADE Voucher",
-  "symbol": "SC",
-  "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/clmspn.PNG",
+  "name": "SOLANA SPIN",
+  "symbol": "SS",
+  "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/phantomnft2.png",
   "seller_fee_basis_points": 500,
   "properties": { "category": "image" },
   "attributes": []
