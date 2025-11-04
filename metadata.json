@@ -1,0 +1,8 @@
+{
+  "name": "SOLARCADE Voucher",
+  "symbol": "SC",
+  "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/clmspn.PNG",
+  "seller_fee_basis_points": 500,
+  "properties": { "category": "image" },
+  "attributes": []
+}
