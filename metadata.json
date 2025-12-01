@@ -1,8 +1,16 @@
 {
-  "name": "SOLANA SPIN",
-  "symbol": "SS",
+  "name": "SPIN COLLECTION",
   "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/phantomnft2.png",
+  "description": "Solana Spin collectible",
   "seller_fee_basis_points": 500,
-  "properties": { "category": "image" },
-  "attributes": []
+  "attributes": [
+    { "trait_type": "Series", "value": "Spin" },
+    { "trait_type": "Category", "value": "Collection" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/notadam2x/CNFT/main/phantomnft2.png", "type": "image/png" }
+    ]
+  }
 }
