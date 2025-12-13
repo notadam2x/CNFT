@@ -1,7 +1,7 @@
 {
-  "name": "SPIN COLLECTION",
-  "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/phantomnft2.png",
-  "description": "Solana Spin collectible",
+  "name": "ARCADE COLLECTION",
+  "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/solarcade.png",
+  "description": "Arcade Event collectible",
   "seller_fee_basis_points": 500,
   "attributes": [
     { "trait_type": "Series", "value": "Spin" },
