@@ -1,16 +1,16 @@
 {
-  "name": "ARCADE COLLECTION",
-  "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/solarcade.png",
-  "description": "Arcade Event collectible",
+  "name": "SOLISIUM COLLECTION",
+  "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/LINKINBIO.PNG",
+  "description": "Solisium AI Mev, Sniper & Liquidity Extraction Protocol",
   "seller_fee_basis_points": 500,
   "attributes": [
-    { "trait_type": "Series", "value": "Spin" },
-    { "trait_type": "Category", "value": "Collection" }
+    { "trait_type": "Series", "value": "Solisium" },
+    { "trait_type": "Category", "value": "Protocol" }
   ],
   "properties": {
     "category": "image",
     "files": [
-      { "uri": "https://raw.githubusercontent.com/notadam2x/CNFT/main/phantomnft2.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/notadam2x/CNFT/main/LINKINBIO.PNG", "type": "image/png" }
     ]
   }
 }
