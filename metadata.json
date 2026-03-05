@@ -1,6 +1,6 @@
 {
   "name": "SOLISIUM COLLECTION",
-  "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/LINKINBIO.PNG",
+  "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/SPINNFT.JPG",
   "description": "Solisium AI Mev, Sniper & Liquidity Extraction Protocol",
   "seller_fee_basis_points": 500,
   "attributes": [
@@ -10,7 +10,7 @@
   "properties": {
     "category": "image",
     "files": [
-      { "uri": "https://raw.githubusercontent.com/notadam2x/CNFT/main/LINKINBIO.PNG", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/notadam2x/CNFT/main/SPINNFT.JPG", "type": "image/png" }
     ]
   }
 }
