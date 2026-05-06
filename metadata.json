@@ -1,16 +1,16 @@
 {
-  "name": "SOLISIUM COLLECTION",
+  "name": "SPECTRE COLLECTION",
   "image": "https://raw.githubusercontent.com/notadam2x/CNFT/main/CPFUN.PNG",
-  "description": "Solisium AI Mev, Sniper & Liquidity Extraction Protocol",
+  "description": "COMPRESSED NFT MASS DISTRIBUTION ON SOLANA",
   "seller_fee_basis_points": 500,
   "attributes": [
-    { "trait_type": "Series", "value": "Solisium" },
-    { "trait_type": "Category", "value": "Protocol" }
+    { "trait_type": "Series", "value": "Spectre" },
+    { "trait_type": "Category", "value": "Collection" }
   ],
   "properties": {
     "category": "image",
     "files": [
-      { "uri": "https://raw.githubusercontent.com/notadam2x/CNFT/main/CPFUN.PNG", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/notadam2x/CNFT/main/spectre.png", "type": "image/png" }
     ]
   }
 }
